@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css";
-import aboutImg from "../img/20230423_055815.jpg"
+import aboutImg from "../img/20230810_223703.jpg"
 
 function About() {
     // up to top btn
